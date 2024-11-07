@@ -27,9 +27,8 @@ public class Ejercicio3_MayorNumeros {
 }
 /***
  * run-single:
- * DAME EL PRIMER NUMERO: 2
- * DAME EL SEGUNDO NUMERO: 5
- * DAME EL TERCER NUMERO: 3
- * EL NUMERO MAYOR ES: 5
- * BUILD SUCCESSFUL (total time: 6 seconds)
+ * DAME EL PRIMER NUMERO: 1
+ * DAME EL SEGUNDO NUMERO: 1
+ * DAME EL TERCER NUMERO: 1
+ * LOS NUMERO SON IGUALES
  */
