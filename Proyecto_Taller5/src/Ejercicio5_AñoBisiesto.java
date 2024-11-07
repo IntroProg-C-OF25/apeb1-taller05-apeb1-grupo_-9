@@ -16,3 +16,9 @@ public class Ejercicio5_AñoBisiesto {
     }
     
 }
+/***
+ * run-single:
+ * INGRESE UN A�O: 2024
+ * !EL A�O INGRESADO ES BICIESTO!
+ * BUILD SUCCESSFUL (total time: 4 seconds)
+ */
